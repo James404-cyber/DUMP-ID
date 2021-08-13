@@ -21,6 +21,7 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 ## <b>installation</b>
 
 ```
+$ rm -rf DUMP-ID
 $ pkg update
 $ pkg upgrade
 $ pkg install python
