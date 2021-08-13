@@ -9,6 +9,8 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 
 <h2 align="center">  FB NUMERIC ID DUMP TOOL </h2>
 
+<h3 align="center"> ONLY FROM FRIENDLIST </h3>
+      
 <p align="center">
       FASTEST NEW FILE MAKING 
 </p>
