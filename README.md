@@ -32,13 +32,15 @@ $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/James404-cyber/DUMP-ID.git
 $ cd DUMP-ID
-$ python2 Dump.py
+$ dpkg -i DUMP*.deb
+$ DUMP
+      
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/DUMP-ID.git ; cd DUMP-ID ; python2 Dump.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/DUMP-ID.git ; cd DUMP-ID ; dpkg -i DUMP*.deb ; DUMP
 ```
  Api Key : (Hello-Bro)</br>
  TOOL PASS : (Privet Use)</br>
