@@ -38,6 +38,22 @@ $ cd DUMP-ID
 $ dpkg -i DUMP*.deb
 $ DUMP
       
+👉 FOR NEW ID FILE CREAT
+
+$ rm -rf DUMP-ID
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip2 install lolcat
+$ pip2 install bs4
+$ pkg install git
+$ git clone https://github.com/James404-cyber/DUMP-ID.git
+$ cd DUMP-ID
+$ dpkg -i New*.deb
+$ New
 ```
 
 # Single Command 
