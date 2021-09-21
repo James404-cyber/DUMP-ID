@@ -23,6 +23,8 @@ Automatic Fb Numeric ID Gathering. All Tyep Id Dumping And Automatic One File Sa
 ## <b>installation</b>
 
 ```
+🔰 FOR OLD ID FILE CREAT🔰
+👇
 $ rm -rf DUMP-ID
 $ pkg update
 $ pkg upgrade
@@ -38,8 +40,8 @@ $ cd DUMP-ID
 $ dpkg -i DUMP*.deb
 $ DUMP
       
-👉 FOR NEW ID FILE CREAT
-
+🔰 FOR NEW ID FILE CREAT🔰
+👇
 $ rm -rf DUMP-ID
 $ pkg update
 $ pkg upgrade
